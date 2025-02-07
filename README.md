@@ -107,7 +107,7 @@ Soy TSU en Análisis de Sistemas y trabajo en una empresa de consultoría especi
       <br><b>GitHub</b> 
     </td> 
     <td align="center" width="96"> 
-      <img alt="Visual Studio Code" width="48" height="48" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"> 
+      <img alt="Visual Studio Code" width="48" height="48" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png"> 
       <br><b>VS Code</b> 
     </td> 
     <td align="center" width="96"> 
