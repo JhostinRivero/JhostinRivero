@@ -1,3 +1,5 @@
+Español | [English](./README_EN.md)
+
 ## 👋 ¡Hola! Soy Jhostin
 
 Soy TSU en Análisis de Sistemas y trabajo en una empresa de consultoría especializada en ADempiere. Me apasiona la automatización, la gestión de datos y la infraestructura eficiente.
