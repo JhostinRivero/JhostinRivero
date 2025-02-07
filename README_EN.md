@@ -1,3 +1,5 @@
+English | [Spanish](./README.md)
+
 # 👋 Hello! I'm Jhostin
 
 I am a TSU in Systems Analysis working at a consultancy company specialized in ADempiere. I am passionate about automation, data management, and efficient infrastructure.
